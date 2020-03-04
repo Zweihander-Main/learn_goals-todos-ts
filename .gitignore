@@ -69,7 +69,6 @@ node_modules
 .tmp
 dist
 build
-public
 server.js
 server.js.map
 
